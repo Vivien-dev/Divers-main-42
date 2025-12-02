@@ -6,13 +6,13 @@
 /*   By: vivila <vivila@student.42perpignan.fr>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/20 20:14:27 by nopons            #+#    #+#             */
-/*   Updated: 2025/11/29 01:58:19 by vivila           ###   ########.fr       */
+/*   Updated: 2025/12/03 00:07:27 by vivila           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 #include <limits.h>
-#include "header.h"
+#include "ft_printf.h"
 
 # define RESET "\033[0m"
 # define CYAN "\033[36m"
